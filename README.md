@@ -1,4 +1,4 @@
-# cascade
+# Cascade
 Event based analysis of neuroimaging data
 
 Inline-style: 
